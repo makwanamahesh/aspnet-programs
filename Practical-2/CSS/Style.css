@@ -1,0 +1,18 @@
+﻿body {
+    background-color:chocolate;
+}
+.form {
+
+   background-color:gold;
+   
+   height:700px;
+   width:500px;
+   margin:50px;
+   box-shadow:rgb(182, 255, 0)0px 0px 10px 10px inset;
+}
+.btn {
+
+    height:35px;
+    width:70px;
+    background-color:ButtonHighlight;
+}
